@@ -21,4 +21,5 @@ const data = [
   },
 ];
 
+// data가 const이므로 export default를 따로 작성
 export default data;

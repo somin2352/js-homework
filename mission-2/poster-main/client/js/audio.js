@@ -10,6 +10,7 @@ export class AudioPlayer {
     this.#audio.src = source;
   }
 
+  // setter 함수 -> audio.volume을 지정
   set volume(value) {
     this.#audio.volume = value;
   }
