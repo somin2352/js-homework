@@ -20,3 +20,5 @@ const data = [
     alt: "게일 포스터",
   },
 ];
+
+export default data;
